@@ -3,10 +3,28 @@
 ## 1. Introduction and Overview
 
 ### Definition and Purpose
-This dimension addresses establishing responsible AI use policies, addressing bias, ensuring compliance, and managing ethical workforce transition. It guides organizations in creating frameworks for ethical and responsible use of AI in engineering practices, particularly as AI systems increasingly replace human engineers.
+This dimension addresses establishing responsible AI use policies, addressing bias,
+ensuring compliance, and managing ethical workforce transition. It guides organizations
+in creating frameworks for ethical and responsible use of AI in engineering practices,
+particularly as AI systems increasingly replace human engineers.
 
 ### Strategic Importance
-TBD
+The Governance & Ethics dimension serves as the moral compass and risk management
+framework for AI engineering transformation. As AI systems take on increasingly autonomous
+engineering roles, organizations face unprecedented ethical challenges and regulatory scrutiny
+that require deliberate governance approaches.
+
+Strategic importance of this dimension includes:
+
+- **Risk Mitigation**: Protecting the organization from reputational, legal, and operational risks associated with AI misuse
+- **Trust Building**: Establishing trust with employees, customers, and stakeholders through responsible AI practices
+- **Regulatory Readiness**: Preparing for emerging AI regulations and compliance requirements
+- **Ethical Leadership**: Demonstrating organizational values through responsible approaches to AI adoption and workforce transition
+- **Sustainable Innovation**: Creating governance frameworks that enable innovation while ensuring ethical boundaries
+
+Without robust governance and ethical frameworks, organizations risk significant harm through
+biased AI outputs, compliance violations, intellectual property disputes, and workforce
+disruption that could undermine the entire transformation effort.
 
 ### Key Components
 - Developing policies for responsible AI use in autonomous engineering
@@ -17,7 +35,17 @@ TBD
 - Developing ethical frameworks for workforce transition and displacement
 
 ### Interdependencies
-TBD
+The Governance & Ethics dimension intersects with all other dimensions of the AI-EAF in critical ways:
+
+- **People & Skills**: Ethical workforce transition is a core component of responsible AI adoption, requiring careful planning and implementation
+- **Tooling & Stack**: Tool selection must consider ethical implications, bias potential, and governance capabilities
+- **Processes & Workflows**: Processes must incorporate ethical checkpoints and governance reviews throughout the development lifecycle
+- **Culture & Change**: Ethical values must be embedded in the organizational culture to ensure governance is embraced rather than circumvented
+- **Business Alignment**: Governance approaches must balance ethical considerations with business objectives, finding responsible paths to value creation
+
+These interdependencies highlight that governance and ethics cannot be addressed in isolation
+but must be integrated throughout the AI engineering adaptation journey. Ethical considerations
+should inform decisions across all dimensions, creating a responsible foundation for transformation.
 
 ## 2. Maturity Model for Governance & Ethics
 

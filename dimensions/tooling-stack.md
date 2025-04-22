@@ -3,10 +3,24 @@
 ## 1. Introduction and Overview
 
 ### Definition and Purpose
-This dimension addresses selecting, implementing, and optimizing AI-powered development tools and infrastructure. It guides organizations in building a technology foundation that enables AI-augmented engineering practices.
+This dimension addresses selecting, implementing, and optimizing AI-powered development tools
+and infrastructure. It guides organizations in building a technology foundation that enables
+AI-augmented engineering practices.
 
 ### Strategic Importance
-TBD
+The Tooling & Stack dimension represents the technological foundation of AI engineering transformation.
+The selection, implementation, and optimization of AI-powered development tools directly determines
+the capabilities available to engineers and the potential impact of AI on engineering practices.
+
+Strategic importance of this dimension includes:
+
+- **Capability Enablement**: AI tools provide the fundamental capabilities that enable new engineering approaches and productivity gains
+- **Competitive Differentiation**: Early and effective adoption of advanced AI tooling can create significant competitive advantages
+- **Investment Optimization**: Strategic tool selection ensures organizations maximize return on their AI technology investments
+- **Risk Management**: Proper implementation addresses security, compliance, and intellectual property concerns
+- **Transformation Acceleration**: Well-integrated tooling reduces friction and accelerates the adoption of AI-augmented practices
+
+Without a strategic approach to tooling, organizations often experience tool proliferation, security vulnerabilities, inconsistent adoption, and limited value realization from their AI investments.
 
 ### Key Components
 - Evaluating and selecting appropriate AI coding assistants
@@ -16,7 +30,17 @@ TBD
 - Measuring and optimizing the effectiveness of AI tooling
 
 ### Interdependencies
-TBD
+The Tooling & Stack dimension is fundamentally interconnected with all other dimensions of the AI-EAF:
+
+- **People & Skills**: Tool selection influences skill requirements, while available skills may constrain tool choices
+- **Processes & Workflows**: Tools must support redesigned processes, while processes must leverage tool capabilities
+- **Governance & Ethics**: Tool implementation must adhere to governance frameworks and ethical guidelines
+- **Culture & Change**: Tool adoption requires cultural acceptance and effective change management
+- **Business Alignment**: Tool investments must demonstrate clear business value and support strategic objectives
+
+These interdependencies highlight that tooling decisions cannot be made in isolation based solely on technical
+capabilities. Effective AI engineering adaptation requires a holistic approach where tooling choices consider
+impacts across all dimensions and align with the organization's broader transformation strategy.
 
 ## 2. Maturity Model for Tooling & Stack
 

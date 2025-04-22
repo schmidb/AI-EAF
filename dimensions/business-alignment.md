@@ -3,10 +3,23 @@
 ## 1. Introduction and Overview
 
 ### Definition and Purpose
-This dimension ensures AI engineering initiatives support broader business goals and deliver measurable value. It helps organizations connect AI engineering transformation to strategic business outcomes.
+This dimension ensures AI engineering initiatives support broader business goals and
+deliver measurable value. It helps organizations connect AI engineering transformation to strategic business outcomes.
 
 ### Strategic Importance
-TBD
+The Business Alignment dimension serves as the critical bridge between technological transformation
+and organizational success. While AI engineering capabilities are powerful, they only create
+sustainable value when deliberately aligned with business strategy and measured against meaningful outcomes.
+
+Strategic importance of this dimension includes:
+
+- **Investment Justification**: Providing clear business rationale for significant investments in AI engineering transformation
+- **Strategic Prioritization**: Ensuring AI initiatives focus on the highest-value business opportunities
+- **Stakeholder Alignment**: Creating shared understanding of AI's value proposition across technical and business leadership
+- **Sustainable Transformation**: Building long-term support for AI initiatives by demonstrating tangible business impact
+- **Competitive Differentiation**: Leveraging AI engineering capabilities to create unique market advantages and business models
+
+Without strong business alignment, organizations risk pursuing technically impressive but commercially irrelevant AI engineering initiatives, leading to wasted investment and missed strategic opportunities.
 
 ### Key Components
 - Aligning AI engineering initiatives with business strategy
@@ -16,7 +29,15 @@ TBD
 - Managing the economics of AI-powered development
 
 ### Interdependencies
-TBD
+The Business Alignment dimension connects with all other dimensions of the AI-EAF in critical ways:
+
+- **People & Skills**: Workforce transformation investments must demonstrate clear business value and align with strategic talent needs
+- **Tooling & Stack**: Technology selections should be driven by business requirements and economic considerations, not just technical capabilities
+- **Processes & Workflows**: Process redesign should prioritize business outcomes like speed-to-market, quality, and customer experience
+- **Governance & Ethics**: Governance frameworks must balance innovation with risk management to protect business value
+- **Culture & Change**: Cultural transformation efforts should emphasize business impact to drive meaningful adoption
+
+These interdependencies highlight that business alignment is not a separate consideration but an integral lens through which all other dimensions should be viewed. Every aspect of AI engineering adaptation should ultimately connect to measurable business value.
 
 ## 2. Maturity Model for Business Alignment
 

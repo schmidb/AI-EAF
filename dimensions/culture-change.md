@@ -3,10 +3,27 @@
 ## 1. Introduction and Overview
 
 ### Definition and Purpose
-This dimension focuses on fostering an environment that embraces AI collaboration and continuous learning. It helps organizations navigate the cultural shifts required to successfully adopt AI-augmented engineering practices.
+This dimension focuses on fostering an environment that embraces AI collaboration and
+continuous learning. It helps organizations navigate the cultural shifts required
+to successfully adopt AI-augmented engineering practices.
 
 ### Strategic Importance
-TBD
+The Culture & Change Management dimension represents the foundation upon which successful AI
+engineering transformation is built. While technology and processes can be implemented
+through directive approaches, true transformation requires a supportive culture and
+effective change management to overcome the profound psychological and social challenges of AI adoption.
+
+Strategic importance of this dimension includes:
+
+- **Adoption Acceleration**: Cultural readiness dramatically increases the speed and depth of AI tool adoption
+- **Resistance Mitigation**: Proactive change management reduces costly resistance and implementation failures
+- **Innovation Enablement**: A culture of experimentation unlocks creative applications of AI capabilities
+- **Psychological Safety**: Creating environments where engineers feel secure exploring new AI-human collaboration models
+- **Sustainable Transformation**: Building adaptability as a core cultural value to support ongoing evolution as AI advances
+
+Without addressing culture and change management, organizations often experience superficial
+adoption, passive resistance, and ultimately failed transformation efforts, regardless of
+the quality of their technical implementation.
 
 ### Key Components
 - Building a culture that views AI as a collaborative partner
@@ -16,7 +33,17 @@ TBD
 - Fostering continuous learning as AI capabilities evolve
 
 ### Interdependencies
-TBD
+The Culture & Change Management dimension is fundamentally interconnected with all other dimensions of the AI-EAF:
+
+- **People & Skills**: Cultural transformation and skills development must progress in tandem, as each reinforces the other
+- **Tooling & Stack**: Tool selection should consider cultural fit and change readiness, while implementation approaches should include cultural elements
+- **Processes & Workflows**: New processes must be designed with change management in mind and cultural implications considered
+- **Governance & Ethics**: Governance frameworks should reinforce cultural values while cultural initiatives should emphasize ethical AI use
+- **Business Alignment**: Cultural transformation should emphasize business outcomes to drive meaningful adoption and demonstrate value
+
+These interdependencies highlight that culture is not merely a "soft" consideration but a critical
+enabler that determines the success or failure of technical initiatives. Cultural transformation
+should be integrated into every aspect of AI engineering adaptation rather than treated as a separate workstream.
 
 ## 2. Maturity Model for Culture & Change Management
 

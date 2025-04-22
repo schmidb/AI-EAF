@@ -3,10 +3,26 @@
 ## 1. Introduction and Overview
 
 ### Definition and Purpose
-This dimension focuses on reimagining software development lifecycles to leverage AI capabilities at each stage. It helps organizations adapt their engineering processes to take full advantage of AI-powered automation and augmentation.
+This dimension focuses on reimagining software development lifecycles to leverage AI
+capabilities at each stage. It helps organizations adapt their engineering processes
+to take full advantage of AI-powered automation and augmentation.
 
 ### Strategic Importance
-TBD
+The Processes & Workflows dimension represents the operational backbone of AI engineering
+transformation. While tools and technologies enable AI capabilities, it is through reimagined
+processes and workflows that organizations actually realize the transformative potential of
+AI in engineering practices.
+
+Strategic importance of this dimension includes:
+
+- **Productivity Amplification**: Well-designed AI-augmented processes can dramatically increase engineering productivity and output quality
+- **Consistency and Standardization**: AI-integrated workflows enable more consistent application of best practices and standards
+- **Scalability**: Process optimization allows organizations to scale engineering capabilities without proportional headcount increases
+- **Competitive Advantage**: Streamlined AI workflows enable faster time-to-market and more responsive product development
+- **Transformation Enablement**: Redesigned processes create the operational context for successful skills transition and tool adoption
+
+Without deliberate process redesign, organizations often experience limited value from AI tools as they attempt
+to force new capabilities into outdated workflows, creating friction and inefficiency rather than transformation.
 
 ### Key Components
 - Redesigning development workflows to incorporate AI assistance
@@ -16,7 +32,17 @@ TBD
 - Optimizing CI/CD pipelines for AI-augmented development
 
 ### Interdependencies
-TBD
+The Processes & Workflows dimension is deeply interconnected with all other dimensions of the AI-EAF:
+
+- **People & Skills**: New processes require different skills and create the context for human-AI collaboration models
+- **Tooling & Stack**: Process design must align with tool capabilities, while tool selection should support process objectives
+- **Governance & Ethics**: Processes must incorporate governance checkpoints and ethical considerations throughout the lifecycle
+- **Culture & Change**: Process changes require cultural adaptation and effective change management to ensure adoption
+- **Business Alignment**: Process redesign should prioritize business outcomes and measurable value creation
+
+These interdependencies highlight that process transformation cannot succeed in isolation. Effective AI
+engineering adaptation requires synchronized evolution across processes, tools, skills, governance, and
+culture, all aligned with business objectives.
 
 ## 2. Maturity Model for Processes & Workflows
 
