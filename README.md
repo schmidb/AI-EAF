@@ -76,7 +76,7 @@ By adopting the AI-EAF, organizations can position themselves to harness the **b
 The AI-EAF is designed for:
 
 - **Engineering Leaders**: CTOs, VPs of Engineering, and Engineering Directors responsible for navigating the transition to AI-driven engineering
-- **Technology Executives**: CIOs and CDOs responsible for digital transformation initiatives in the face of AI disruption
+- **Technology Executives**: CIOs and CDOs responsible for digital transformation initiatives in the face of AI disruption ([Executive Summary](executive-summary.md))
 - **Engineering Managers**: Team leads implementing AI systems and managing workforce transitions
 - **Enterprise Architects**: Professionals designing the next generation of AI-driven engineering capabilities
 - **Technology Strategists**: Those responsible for long-term technology roadmaps in an AI-dominated future
