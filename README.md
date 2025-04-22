@@ -112,7 +112,7 @@ The AI-EAF can be utilized in several ways depending on your organization's need
 
 ## Advisory & Implementation Support
 
-With extensive experience in engineering transformation and AI & Data integration, **Markus Schmidberger** offers strategic advisory services
+With extensive experience in engineering transformation and AI & Data integration, [**Markus Schmidberger**](https://www.linkedin.com/in/schmidberger/) offers strategic advisory services
 to organizations seeking to implement AI-EAF. While not available for direct execution of implementation tasks, Markus provides high-level guidance
 and collaborates with trusted partner consultants to drive the transformation process.​
 
