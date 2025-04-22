@@ -1,6 +1,8 @@
 # AI Engineering Adaptation Framework (AI-EAF)
 
-Generative AI and large language models (LLMs) are rapidly **transforming the nature of software engineering**. In the next 1-3 years, organizations will witness a **dramatic shift**: many traditional engineering tasks will be **automated or entirely performed by AI**, and engineering productivity will **increase by an order of magnitude**. This evolution presents both a **strategic opportunity** and an **existential challenge**. To survive and thrive, companies **must radically transform their engineering capabilities** - not incrementally, but **fundamentally and urgently**.
+Generative AI and large language models (LLMs) are rapidly **transforming the nature of software engineering**. In the next years (2025 - 2030), organizations will witness a **dramatic shift**: many traditional engineering tasks will be **automated or entirely performed by AI**, and engineering productivity will **increase by an order of magnitude**.
+
+This evolution presents both a **strategic opportunity** and an **existential challenge**. To survive and thrive, companies **must radically transform their engineering capabilities** - not incrementally, but **fundamentally and urgently**.
 
 ## Purpose
 
@@ -67,7 +69,7 @@ The maturity model provides specific indicators for each dimension, allowing org
 ## Why This Framework Matters Now
 Artificial intelligence is advancing at an **unprecedented pace**, fundamentally altering the landscape of software engineering. Eric Schmidt, former CEO of Google, recently warned that within "three to five years," researchers may achieve **artificial general intelligence (AGI)**, leading to AI systems that "won't have to listen to us anymore". [https://futurism.com/the-byte/former-google-ceo-ai-escape-humans](https://futurism.com/the-byte/former-google-ceo-ai-escape-humans)
 
-This projection underscores the **critical need** for organizations to proactively transform their engineering practices. The AI-EAF provides a structured approach to navigate this **radical transformation**, ensuring that organizations are prepared for a future where AI may **largely replace traditional engineering roles**.
+This projection underscores the **critical need** for organizations to proactively transform their engineering practices. The AI-EAF provides a structured and adaptable approach to navigate this **radical transformation**, ensuring that organizations are prepared for a future where AI may **largely replace traditional engineering roles**.
 
 By adopting the AI-EAF, organizations can position themselves to harness the **benefits of AI** while managing the **profound workforce and organizational changes** that will accompany this transition.
 
@@ -78,7 +80,6 @@ The AI-EAF is designed for:
 - **Engineering Leaders**: CTOs, VPs of Engineering, and Engineering Directors responsible for navigating the transition to AI-driven engineering
 - **Technology Executives**: CIOs and CDOs responsible for digital transformation initiatives in the face of AI disruption ([Executive Summary](executive-summary.md))
 - **Engineering Managers**: Team leads implementing AI systems and managing workforce transitions
-- **Enterprise Architects**: Professionals designing the next generation of AI-driven engineering capabilities
 - **Technology Strategists**: Those responsible for long-term technology roadmaps in an AI-dominated future
 - **HR and Organizational Leaders**: Professionals managing the human aspects of engineering transformation
 
@@ -109,22 +110,24 @@ The AI-EAF can be utilized in several ways depending on your organization's need
 - Create implementation plans that address **all aspects of transformation**
 - Provide ongoing guidance aligned with the framework's **progression model**
 
-## Implementation Support
+## Advisory & Implementation Support
 
-**Markus Schmidberger** is available as a consultant to help organizations implement the AI-EAF. With extensive experience in engineering transformation and AI integration, Markus provides:
+With extensive experience in engineering transformation and AI & Data integration, **Markus Schmidberger** offers strategic advisory services
+to organizations seeking to implement AI-EAF. While not available for direct execution of implementation tasks, Markus provides high-level guidance
+and collaborates with trusted partner consultants to drive the transformation process.​
 
-- Framework customization for your specific organizational context
-- Assessment of current engineering capabilities and AI readiness
-- Development of tailored transformation roadmaps
-- Guidance on AI system selection and implementation
-- Change management and workforce transition support
-- Ongoing advisory services throughout your AI engineering journey
+Advisory Services Include:
+* Framework Customization: Tailoring the AI-EAF to align with your organization's unique context and objectives.​
+* Capability Assessment: Evaluating current engineering capabilities and AI readiness to identify areas for improvement.​
+* Transformation Roadmap Development: Creating a strategic roadmap to guide your organization's AI integration journey.​
+* Change Management Support: Assisting in managing organizational change and workforce transition during the transformation process.​
+* Ongoing Strategic Advisory: Offering continuous support and guidance throughout your AI engineering journey.​
 
-For consulting inquiries, please contact Markus Schmidberger directly at [markus@turtletrafo.de](mailto:markus@turtletrafo.de).
+For advisory inquiries, please contact Markus Schmidberger directly at [markus@turtletrafo.de](mailto:markus@turtletrafo.de).
 
 ## Contribution Guidelines
 
-We welcome contributions to the AI Engineering Adaptation Framework. To contribute:
+We welcome contributions to the AI-EAF. To contribute:
 
 1. Please reach out to Markus Schmidberger at [markus@turtletrafo.de](mailto:markus@turtletrafo.de) before starting work on any contributions
 2. Submit contributions via pull requests, clearly describing the changes and their purpose
