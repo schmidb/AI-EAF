@@ -4,4 +4,6 @@ This directory contains case studies of organizations that have successfully imp
 
 Each case study demonstrates how different organizations have approached the transformation of their engineering practices in response to AI advancements, highlighting challenges, solutions, and outcomes.
 
-*Case studies coming soon*
+## Available Case Studies
+
+1. [Early Adoption of AI to Replace Engineering and Operational Roles](casestudy_early_adaptors.md) - Examines how leading technology companies (Klarna, Shopify, PayPal, ServiceNow, and Uber) are proactively integrating AI to automate tasks traditionally performed by engineers and other professionals.
