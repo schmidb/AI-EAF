@@ -3,7 +3,7 @@
 
 ### Strategic Imperative
 
-Generative AI and large language models (LLMs) are poised to **fundamentally transform engineering functions** within the next 1-3 years. Organizations face both an **unprecedented opportunity** and an **existential challenge** as AI systems increasingly automate or entirely perform traditional engineering tasks. This is not an incremental shift but a **radical transformation** that demands immediate strategic attention.
+Generative AI and large language models (LLMs) are poised to **fundamentally transform engineering functions** within the next years (2025-2030). Organizations face both an **unprecedented opportunity** and an **existential challenge** as AI systems increasingly automate or entirely perform traditional engineering tasks. This is not an incremental shift but a **radical transformation** that demands immediate strategic attention.
 
 ### Framework Overview
 
@@ -61,6 +61,8 @@ The window for proactive transformation is narrow. Organizations that move decis
 
 The AI-EAF provides the strategic framework to initiate this critical transformation journey. We recommend beginning with an organizational readiness assessment across the six dimensions to establish your baseline and identify priority initiatives.
 
+Tap into the strategic expertise of [**Markus Schmidberger**](https://www.linkedin.com/in/schmidberger/), a seasoned advisor in engineering transformation and AI & Data integration. If your organization is looking to implement the AI-EAF framework, Markus can help you chart the right course—with proven insight and trusted partner consultants to support execution.
+
 ---
 
-*For a detailed exploration of the framework, implementation guidance, and assessment tools, please review the complete AI-EAF documentation.*
+*For a detailed exploration of the framework, implementation guidance, and assessment tools, please review the complete AI-EAF framework documentation.*
