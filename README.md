@@ -1,6 +1,6 @@
 # AI Engineering Adaptation Framework (AI-EAF)
 
-Generative AI and large language models (LLMs) are rapidly transforming the nature of software engineering. In the next years, organizations will witness a dramatic shift: many traditional engineering tasks will be automated, and engineering productivity will increase by an order of magnitude. This evolution presents both a strategic opportunity and an organizational challenge. To stay competitive, companies must adapt their engineering capabilities—not incrementally, but fundamentally.
+Generative AI and large language models (LLMs) are rapidly *transforming the nature of software engineering*. In the next years, organizations will witness a dramatic shift: many traditional engineering tasks will be automated, and engineering productivity will increase by an order of magnitude. This evolution presents both a strategic opportunity and an organizational challenge. To stay competitive, companies *must adapt their engineering capabilities* - not incrementally, but fundamentally.
 
 ## Purpose
 
@@ -28,6 +28,14 @@ The framework helps organizations redesign their engineering functions across si
 
 6. **[Business Alignment](dimensions/business-alignment.md)**: Ensuring AI engineering initiatives support broader business goals and deliver measurable value
 
+
+## Why This Framework Matters Now
+Artificial intelligence is advancing at an unprecedented pace, fundamentally altering the landscape of software engineering. Eric Schmidt, former CEO of Google, recently warned that within "three to five years," researchers may achieve artificial general intelligence (AGI), leading to AI systems that "won't have to listen to us anymore". [https://futurism.com/the-byte/former-google-ceo-ai-escape-humans](https://futurism.com/the-byte/former-google-ceo-ai-escape-humans)
+
+This projection underscores the critical need for organizations to proactively adapt their engineering practices. The AI-EAF provides a structured approach to navigate this transformation, ensuring that teams are equipped to integrate AI responsibly and effectively.​
+
+By adopting the AI-EAF, organizations can position themselves to harness the benefits of AI while mitigating potential risks associated with its rapid evolution.​
+
 ## Target Audience
 
 The AI-EAF is designed for:
@@ -38,7 +46,7 @@ The AI-EAF is designed for:
 - **Enterprise Architects**: Professionals designing the next generation of engineering capabilities
 - **Technology Strategists**: Those responsible for long-term technology roadmaps and innovation
 
-Similar to cloud adoption in the last decade, AI integration demands more than new tools—it requires a shift in mindset, structure, and execution. The AI-EAF enables leaders to build scalable, AI-augmented engineering teams that deliver faster, innovate more effectively, and operate with significantly greater efficiency. For executives, this framework offers a practical path to harness the full potential of AI in engineering—turning disruption into competitive advantage.
+Similar to cloud adoption in the last decade, AI integration demands more than new tools - it requires a shift in mindset, structure, and execution. The AI-EAF enables leaders to build scalable, AI-augmented engineering teams that deliver faster, innovate more effectively, and operate with significantly greater efficiency. For executives, this framework offers a practical path to harness the full potential of AI in engineering - turning disruption into competitive advantage.
 
 ## How to Use This Framework
 
@@ -89,3 +97,7 @@ We welcome contributions to the AI Engineering Adaptation Framework. To contribu
 5. Follow the existing formatting and documentation standards
 
 Your experiences and insights can help improve this framework for the entire community of engineering leaders navigating the AI transformation journey.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
