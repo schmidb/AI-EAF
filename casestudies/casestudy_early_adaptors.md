@@ -2,7 +2,7 @@
 
 Created in April 2025
 
-This case study examines how leading technology companies — Klarna, Shopify, PayPal, ServiceNow and Uber — are proactively
+This case study examines how leading technology companies - Klarna, Shopify, PayPal, ServiceNow and Uber - are proactively
 integrating artificial intelligence (AI) to automate tasks traditionally performed by engineers and other professionals.
 These initiatives align with the principles of the AI Engineering Adaptation Framework (AI-EAF), which emphasizes
 strategic AI integration to enhance efficiency and productivity.
@@ -65,4 +65,4 @@ Reference: [https://www.businessinsider.com/uber-ceo-not-enough-employees-use-ai
 
 The proactive steps taken by Klarna, Shopify, Uber, PayPal, and ServiceNow illustrate a growing trend of strategic AI adoption to automate tasks traditionally performed by engineers and other professionals. These organizations demonstrate how AI can be leveraged to drive efficiency, reduce operational costs, and transform workforce roles across departments.
 
-Each company showcases different aspects of the AI Engineering Adaptation Framework (AI-EAF) in action—from workforce reduction and productivity gains to AI literacy and cultural transformation. Together, they offer practical insights into effective AI integration strategies, operational innovation, and the evolution toward AI-centric organizations.
+Each company showcases different aspects of the AI Engineering Adaptation Framework (AI-EAF) in action - from workforce reduction and productivity gains to AI literacy and cultural transformation. Together, they offer practical insights into effective AI integration strategies, operational innovation, and the evolution toward AI-centric organizations.

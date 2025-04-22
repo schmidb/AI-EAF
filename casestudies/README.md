@@ -1,6 +1,7 @@
 # Case Studies
 
-This directory contains case studies of organizations that have successfully implemented the AI Engineering Adaptation Framework (AI-EAF).
+This directory contains case studies of organizations that have successfully implemented the AI Engineering Adaptation Framework (AI-EAF) or following a
+similar vision to massively increase engineering productivity with AI.
 
 Each case study demonstrates how different organizations have approached the transformation of their engineering practices in response to AI advancements, highlighting challenges, solutions, and outcomes.
 
