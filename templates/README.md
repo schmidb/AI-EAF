@@ -8,5 +8,15 @@ Resources include:
 - Implementation checklists for each dimension
 - Measurement frameworks for tracking progress and outcomes
 - Workshop materials for team engagement
+- Adaptability assessment and planning tools
 
-*Templates coming soon*
+## Available Templates
+
+### Assessment Tools
+- [Maturity Assessment Template](maturity-assessment-template.md) - Comprehensive tool for assessing organizational maturity across all dimensions
+- [Adaptability Assessment](adaptability-assessment.md) - Specialized assessment for evaluating organizational adaptability to AI advancements
+
+### Planning Tools
+- [Adaptability Playbook](adaptability-playbook.md) - Practical guide for building adaptability into AI engineering transformation
+
+*Additional templates coming soon*
