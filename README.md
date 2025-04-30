@@ -45,6 +45,12 @@ The framework helps organizations redesign their engineering functions across si
 
 6. **[Business Alignment](dimensions/business-alignment.md)**: **Transforming business models** to leverage AI-driven engineering capabilities and manage the economic implications
 
+## Getting Started
+
+New to AI-EAF? Start here:
+
+**[Getting Started Guide](getting-started.md)**: A simple onboarding checklist to help you begin your AI engineering transformation journey, including an initial assessment questionnaire and step-by-step guidance for your first 90 days.
+
 ## Maturity Model
 
 The AI-EAF includes a comprehensive [maturity model](maturity-model/README.md) that helps organizations assess their current state and chart a path toward AI-driven engineering. The model defines **five maturity levels** that apply across all dimensions:
@@ -109,6 +115,27 @@ The AI-EAF can be utilized in several ways depending on your organization's need
 - Develop tailored recommendations based on the framework's principles
 - Create implementation plans that address **all aspects of transformation**
 - Provide ongoing guidance aligned with the framework's **progression model**
+
+### With the AI-EAF Implementation App
+The [AI-EAF Implementation App](app/README.md) provides a digital platform to guide organizations through their transformation journey:
+- Interactive assessment tools and visualizations
+- Customized transformation roadmap generation
+- Progress tracking and reporting
+- Knowledge repository and collaboration tools
+- Adaptability management for evolving AI capabilities
+
+## Industry-Specific Adaptations
+
+While the AI-EAF provides a comprehensive foundation for engineering transformation across organizations, **specific industries may require tailored adaptations** to address their unique contexts, workflows, and challenges. The framework is designed to be flexible and can be customized to meet the distinct needs of various sectors.
+
+Industries with specialized engineering practices, creative processes, or regulatory environments may need to adjust certain aspects of the framework while maintaining its core principles. We provide guidance for industry-specific adaptations in the [adaptations](adaptations/) directory, currently including:
+
+- [Gaming Industry Adaptation](adaptations/gaming-industry.md): Addressing the unique blend of creative and technical processes in game development
+- [Healthcare Industry Adaptation](adaptations/healthcare-industry.md): Navigating regulatory requirements, patient safety concerns, and clinical validation needs
+- [Financial Services Industry Adaptation](adaptations/financial-services-industry.md): Addressing regulatory compliance, fiduciary responsibilities, and risk management requirements
+- Additional industry adaptations will be added based on community contributions and implementation experiences
+
+Organizations are encouraged to use these industry adaptations as starting points while further customizing the framework to their specific organizational context and needs.
 
 ## Advisory & Implementation Support
 
