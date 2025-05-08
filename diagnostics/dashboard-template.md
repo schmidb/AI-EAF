@@ -126,12 +126,3 @@ Organizations should customize this dashboard template based on:
 6. Establish regular review cadence for dashboard insights
 7. Create action protocols for addressing issues identified
 8. Refine metrics and visualizations based on feedback
-
-## Example Dashboard Visualizations
-
-[Include mockup images or descriptions of key visualizations:
-- Trend charts showing progress over time
-- Heatmaps of organizational readiness
-- Barrier breakdown charts
-- Value realization graphs
-- Capability gap radar charts]
