@@ -52,6 +52,14 @@ Deploy targeted surveys to gather quantitative data on:
 - Process adherence and effectiveness
 - Cultural attitudes toward AI
 
+### Diagnostic Data
+
+Incorporate data from ongoing [diagnostics](../diagnostics/README.md) to provide:
+- Real-time insights on transformation progress
+- Identification of emerging barriers and challenges
+- Measurement of intervention effectiveness
+- Early warning signals of potential issues
+
 ## Scoring Framework
 
 For each dimension, evaluate the organization against specific maturity indicators and assign a level from 1-5:

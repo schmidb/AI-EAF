@@ -19,6 +19,12 @@
 | Business Alignment | [1-5] | [1-5] | [High/Medium/Low] |
 | **Overall Maturity** | [1-5] | [1-5] | |
 
+## Cross-Cutting Capabilities Assessment
+
+| Capability | Current Maturity Level | Target Maturity Level | Priority |
+|-----------|------------------------|----------------------|----------|
+| Diagnostics | [1-5] | [1-5] | [High/Medium/Low] |
+
 ## Detailed Assessment by Dimension
 
 ### People & Skills
@@ -137,6 +143,29 @@
 | Economic Management | No specific approach | Basic cost tracking | Comprehensive economics | Advanced optimization | Strategic investment | [1-5] | [Notes] |
 
 **Overall Business Alignment Maturity Level:** [1-5]
+
+**Strengths:**
+- [List key strengths]
+
+**Gaps:**
+- [List key gaps]
+
+**Recommendations:**
+- [List key recommendations]
+
+## Cross-Cutting Capabilities Assessment
+
+### Diagnostics
+
+| Maturity Indicator | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Current Level | Evidence |
+|-------------------|---------|---------|---------|---------|---------|---------------|----------|
+| Monitoring Approach | No monitoring | Basic metrics | Structured monitoring | Comprehensive diagnostics | Predictive diagnostics | [1-5] | [Notes] |
+| Issue Detection | Reactive only | Basic detection | Systematic detection | Advanced early warning | Predictive detection | [1-5] | [Notes] |
+| Response Protocols | No protocols | Basic responses | Defined protocols | Advanced response system | Adaptive response framework | [1-5] | [Notes] |
+| Data Integration | No integration | Basic data collection | Integrated dashboards | Advanced analytics | Predictive modeling | [1-5] | [Notes] |
+| Continuous Improvement | No process | Ad-hoc improvements | Structured feedback loops | Data-driven optimization | Self-optimizing system | [1-5] | [Notes] |
+
+**Overall Diagnostics Maturity Level:** [1-5]
 
 **Strengths:**
 - [List key strengths]

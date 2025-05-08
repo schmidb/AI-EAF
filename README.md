@@ -51,6 +51,13 @@ New to AI-EAF? Start here:
 
 **[Getting Started Guide](getting-started.md)**: A simple onboarding checklist to help you begin your AI engineering transformation journey, including an initial assessment questionnaire and step-by-step guidance for your first 90 days.
 
+## Cross-Cutting Capabilities
+
+In addition to the six core dimensions, the AI-EAF includes cross-cutting capabilities that span and support the entire transformation process:
+
+### [Diagnostics](diagnostics/README.md)
+Continuous monitoring and troubleshooting systems that help organizations **identify issues early**, measure transformation effectiveness, and enable **rapid adaptation** to evolving AI capabilities. Unlike periodic assessments, diagnostics provide real-time insights across all dimensions.
+
 ## Maturity Model
 
 The AI-EAF includes a comprehensive [maturity model](maturity-model/README.md) that helps organizations assess their current state and chart a path toward AI-driven engineering. The model defines **five maturity levels** that apply across all dimensions:

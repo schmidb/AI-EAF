@@ -155,6 +155,22 @@ Each dimension of the AI-EAF includes specific maturity indicators that help org
 
 The [maturity assessment template](/templates/maturity-assessment-template.md) provides a structured tool for conducting this evaluation.
 
+## Cross-Cutting Capabilities
+
+In addition to assessing the six core dimensions, organizations should evaluate their maturity in cross-cutting capabilities:
+
+### Diagnostics Maturity
+
+The ability to continuously monitor transformation progress and identify issues early is critical for successful AI engineering adaptation. The diagnostics maturity model assesses:
+
+1. **Monitoring Approach**: From no monitoring to predictive diagnostics
+2. **Issue Detection**: From reactive response to predictive detection
+3. **Response Protocols**: From no protocols to adaptive response frameworks
+4. **Data Integration**: From siloed data to predictive modeling
+5. **Continuous Improvement**: From ad-hoc improvements to self-optimizing systems
+
+For detailed guidance on implementing diagnostics, see the [diagnostics documentation](/diagnostics/README.md).
+
 ## Dimension-Specific Maturity
 
 While the five levels provide a consistent framework, each dimension has unique characteristics at each maturity level. Refer to the individual dimension documentation for detailed maturity indicators specific to:

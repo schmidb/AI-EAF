@@ -33,6 +33,7 @@ This guide provides a simple onboarding checklist for organizations looking to b
 - [ ] Document lessons learned and adjust approach as needed
 - [ ] Measure progress against your defined success metrics
 - [ ] Communicate wins and challenges to broader organization
+- [ ] Implement basic [diagnostics](diagnostics/README.md) to monitor transformation progress
 
 ### Step 6: Expand Your Transformation (Ongoing)
 - [ ] Conduct a reassessment using the full [maturity model](maturity-model/README.md)
@@ -108,6 +109,16 @@ Calculate your average score for each dimension:
 - **4.1-5.0**: Managed or Optimizing stage - Advanced capabilities ready for optimization
 
 Focus your initial efforts on dimensions with the lowest scores, while leveraging strengths in your higher-scoring areas.
+
+## Cross-Cutting Capabilities Assessment
+
+### Diagnostics
+- ____ How effectively do you monitor the progress of your AI engineering transformation?
+- ____ To what extent have you implemented early warning systems to detect adoption barriers?
+- ____ How comprehensive is your approach to measuring the impact of AI engineering initiatives?
+- ____ How well do you adapt your transformation approach based on diagnostic insights?
+
+**Diagnostics Average Score: ____**
 
 ## Next Steps
 
