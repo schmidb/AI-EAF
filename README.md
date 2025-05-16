@@ -58,6 +58,9 @@ In addition to the six core dimensions, the AI-EAF includes cross-cutting capabi
 ### [Diagnostics](diagnostics/README.md)
 Continuous monitoring and troubleshooting systems that help organizations **identify issues early**, measure transformation effectiveness, and enable **rapid adaptation** to evolving AI capabilities. Unlike periodic assessments, diagnostics provide real-time insights across all dimensions.
 
+### [Authentic Leadership](authentic-leadership/README.md)
+Principles of self-awareness, authenticity, purpose-driven leadership, mindfulness, and empowerment that guide leaders through the **profound human transition** required for AI engineering transformation. Authentic Leadership practices enhance all dimensions of the framework, ensuring that the human element remains central even as AI capabilities expand.
+
 ## Maturity Model
 
 The AI-EAF includes a comprehensive [maturity model](maturity-model/README.md) that helps organizations assess their current state and chart a path toward AI-driven engineering. The model defines **five maturity levels** that apply across all dimensions:
@@ -146,9 +149,9 @@ Organizations are encouraged to use these industry adaptations as starting point
 
 ## Advisory & Implementation Support
 
-With extensive experience in engineering transformation and AI & Data integration, [**Markus Schmidberger**](https://www.linkedin.com/in/schmidberger/) offers strategic advisory services
-to organizations seeking to implement AI-EAF. While not available for direct execution of implementation tasks, Markus provides high-level guidance
-and collaborates with trusted partner consultants to drive the transformation process.​
+With extensive experience in engineering transformation and AI & Data integration, [**Markus Schmidberger**](https://www.linkedin.com/in/schmidberger/) and [**Miriam Schmidberger**](https://www.linkedin.com/in/miriam-schmidberger/) offer strategic advisory services to organizations seeking to implement AI-EAF. While not available for direct execution of implementation tasks, they provide high-level guidance and collaborate with trusted partner consultants to drive the transformation process.​
+
+Miriam Schmidberger brings deep expertise in authentic leadership principles and practices from The Authentic Leader Academy, enhancing the framework's human-centered approach to AI transformation.
 
 Advisory Services Include:
 * Framework Customization: Tailoring the AI-EAF to align with your organization's unique context and objectives.​
@@ -156,6 +159,7 @@ Advisory Services Include:
 * Transformation Roadmap Development: Creating a strategic roadmap to guide your organization's AI integration journey.​
 * Change Management Support: Assisting in managing organizational change and workforce transition during the transformation process.​
 * Ongoing Strategic Advisory: Offering continuous support and guidance throughout your AI engineering journey.​
+* Authentic Leadership Development: Building leadership capabilities essential for successful human-centered transformation.
 
 For advisory inquiries, please contact Markus Schmidberger directly at [markus@turtletrafo.de](mailto:markus@turtletrafo.de).
 

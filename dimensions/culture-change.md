@@ -20,6 +20,7 @@ Strategic importance of this dimension includes:
 - **Innovation Enablement**: A culture of experimentation unlocks creative applications of AI capabilities
 - **Psychological Safety**: Creating environments where engineers feel secure exploring new AI-human collaboration models
 - **Sustainable Transformation**: Building adaptability as a core cultural value to support ongoing evolution as AI advances
+- **Authentic Transformation**: Fostering genuine engagement through purpose-driven leadership and transparent communication
 
 Without addressing culture and change management, organizations often experience superficial
 adoption, passive resistance, and ultimately failed transformation efforts, regardless of
@@ -31,6 +32,9 @@ the quality of their technical implementation.
 - Developing change management strategies for AI transformation
 - Encouraging experimentation and innovation with AI tools
 - Fostering continuous learning as AI capabilities evolve
+- Creating psychological safety through authentic leadership practices
+- Implementing mindfulness approaches to manage transformation stress
+- Developing purpose-driven narratives around new work models like 4-day work weeks
 
 ### Interdependencies
 The Culture & Change Management dimension is fundamentally interconnected with all other dimensions of the AI-EAF:
@@ -67,6 +71,9 @@ should be integrated into every aspect of AI engineering adaptation rather than 
 - Formal innovation processes incorporating AI
 - Comprehensive learning programs for AI skills
 - Active leadership championing of AI adoption
+- Authentic leadership practices integrated into management approaches
+- Mindfulness programs to support teams through transformation
+- Pilot programs for new work models like 4-day work weeks
 
 ### Level 4: Managed
 - Enthusiastic adoption of AI across engineering teams
@@ -130,6 +137,9 @@ TBD
 3. **Innovation Framework**: Create structure for AI experimentation
 4. **Learning Program**: Implement continuous learning for AI capabilities
 5. **Leadership Alignment**: Ensure consistent support from leadership
+6. **Authentic Leadership Development**: Implement programs focused on self-awareness, purpose, and empowerment
+7. **Mindfulness Practice Integration**: Introduce techniques like box breathing and journaling to manage transformation stress
+8. **New Work Model Pilots**: Test and implement AI-enabled flexible work arrangements like 4-day work weeks
 
 ### Advanced Strategies
 TBD

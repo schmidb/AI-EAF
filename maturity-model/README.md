@@ -171,6 +171,18 @@ The ability to continuously monitor transformation progress and identify issues 
 
 For detailed guidance on implementing diagnostics, see the [diagnostics documentation](/diagnostics/README.md).
 
+### Authentic Leadership Maturity
+
+The capacity for authentic leadership is essential for guiding organizations through the profound human transition required for AI engineering transformation. The authentic leadership maturity model assesses:
+
+1. **Self-Awareness**: From limited awareness to deep understanding of personal biases and reactions to AI
+2. **Authenticity**: From surface-level communication to genuine transparency about AI's impacts
+3. **Purpose-Driven Leadership**: From task focus to meaningful connection between AI and organizational purpose
+4. **Mindfulness Practice**: From reactive responses to thoughtful, present-centered leadership
+5. **Empowerment**: From command-and-control to collaborative co-creation of AI-enabled futures
+
+For detailed guidance on implementing authentic leadership practices, see the [authentic leadership documentation](/authentic-leadership/README.md).
+
 ## Dimension-Specific Maturity
 
 While the five levels provide a consistent framework, each dimension has unique characteristics at each maturity level. Refer to the individual dimension documentation for detailed maturity indicators specific to:

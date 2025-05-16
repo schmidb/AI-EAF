@@ -21,6 +21,7 @@ Strategic importance of this dimension includes:
 - **Regulatory Readiness**: Preparing for emerging AI regulations and compliance requirements
 - **Ethical Leadership**: Demonstrating organizational values through responsible approaches to AI adoption and workforce transition
 - **Sustainable Innovation**: Creating governance frameworks that enable innovation while ensuring ethical boundaries
+- **Authentic Governance**: Ensuring leaders approach AI governance with self-awareness, transparency, and purpose-driven decision making
 
 Without robust governance and ethical frameworks, organizations risk significant harm through
 biased AI outputs, compliance violations, intellectual property disputes, and workforce
@@ -33,6 +34,9 @@ disruption that could undermine the entire transformation effort.
 - Managing intellectual property considerations with AI-generated content
 - Creating governance structures for AI oversight and accountability
 - Developing ethical frameworks for workforce transition and displacement
+- Implementing self-awareness practices for recognizing bias in AI systems
+- Establishing authentic communication guidelines for AI capabilities and limitations
+- Creating ethical frameworks for AI-enabled work models like 4-day work weeks
 
 ### Interdependencies
 The Governance & Ethics dimension intersects with all other dimensions of the AI-EAF in critical ways:
@@ -72,6 +76,9 @@ should inform decisions across all dimensions, creating a responsible foundation
 - Clear intellectual property policies for AI-generated content
 - Established governance structure with defined roles
 - Ethical framework for managing workforce transition
+- Self-awareness practices integrated into AI governance processes
+- Authentic communication guidelines for AI capabilities and limitations
+- Ethical guidelines for implementing AI-enabled work models
 
 ### Level 4: Managed
 - Data-driven policy optimization based on outcomes
@@ -138,6 +145,9 @@ TBD
 4. **IP Strategy**: Create guidelines for AI-generated content ownership
 5. **Governance Structure**: Implement oversight mechanisms for autonomous AI systems
 6. **Ethical Transition Framework**: Develop principles and practices for responsible workforce transformation
+7. **Self-Awareness Program**: Implement practices to help leaders recognize their biases in AI governance
+8. **Authentic Communication Framework**: Establish guidelines for transparent communication about AI capabilities
+9. **Ethical Work Model Guidelines**: Develop principles for implementing AI-enabled flexible work arrangements
 
 ### Advanced Strategies
 TBD

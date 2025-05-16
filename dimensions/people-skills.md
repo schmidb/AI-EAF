@@ -15,6 +15,7 @@ Strategic importance of this dimension includes:
 - **Risk Mitigation**: Proactively addressing workforce transformation reduces the risks of talent shortages, knowledge gaps, and cultural resistance
 - **Ethical Leadership**: Demonstrating responsible approaches to workforce transition enhances reputation and employee trust
 - **Innovation Capacity**: Developing new human competencies that complement AI capabilities creates unique value that purely AI-driven organizations cannot match
+- **Authentic Leadership**: Developing leaders who can guide teams through transformation with self-awareness, purpose, and empowerment
 
 Without strategic focus on this dimension, organizations risk talent crises, cultural breakdown, and inability to effectively leverage AI advancements.
 
@@ -24,6 +25,8 @@ Without strategic focus on this dimension, organizations risk talent crises, cul
 - Creating new roles focused on AI system management and governance
 - Balancing technical expertise with ethical and strategic competencies
 - Managing the profound workforce transformation as AI capabilities advance
+- Implementing authentic leadership development for AI transformation
+- Exploring new work models like 4-day work weeks enabled by AI productivity gains
 
 ### Interdependencies
 The People & Skills dimension is deeply interconnected with all other dimensions of the AI-EAF:
@@ -58,6 +61,8 @@ These interdependencies highlight the need for a holistic approach to AI enginee
 - Clear competency model for human-AI collaboration skills
 - Defined career paths that emphasize strategic and oversight functions
 - Comprehensive talent strategy addressing workforce transformation
+- Authentic leadership development programs for managers leading AI transitions
+- Pilot programs for AI-enabled flexible work arrangements like 4-day work weeks
 
 ### Level 4: Managed
 - Advanced reskilling programs with personalized transition paths
@@ -121,6 +126,8 @@ TBD
 3. **New Role Definition**: Define AI governance, oversight, and strategic roles needed in an AI-dominated environment
 4. **Ethical Transition Planning**: Develop responsible approaches to workforce transformation
 5. **Strategic Competency Development**: Build capabilities focused on areas where humans will continue to add unique value
+6. **Authentic Leadership Development**: Implement programs to develop self-awareness, purpose-driven leadership, and empowerment skills
+7. **AI-Enabled Work Model Innovation**: Explore and implement new work models like 4-day work weeks that leverage AI productivity gains
 
 ### Advanced Strategies
 TBD
